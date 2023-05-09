@@ -1,5 +1,5 @@
 int main(){
-  //fonction principale qui va appeler les autres fonctions
+  //fonction principale qui va appeler les autres fonctions comme replay permettant de savoir si on relance le jeu
 }
 
 int verifChoice(){
